@@ -1,4 +1,4 @@
-# Address-Book
+# Address Book
 
 The Ananas software house needs to release a new version of Contacts. Specifically, Contacts 10.0 must provide the user with the following features:
 1. Insert new contact. Each contact is characterized by a (progressive) code, a cogno, and a name, a date of birth and a list of telephone numbers. A telephone number is instead characterized by a number and a description (e.g., mobile phone, work, home). Each contact will have one or more telephone numbers (max 10).
